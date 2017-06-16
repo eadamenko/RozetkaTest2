@@ -1,0 +1,10 @@
+rozetka\com\pages\Page.class
+rozetka\com\pages\HomePage.class
+rozetka\com\pages\PageManager.class
+rozetka\com\factory\applogic\AppHelper.class
+rozetka\com\TestBase.class
+rozetka\com\factory\applogicDrv\AppHelperDrv.class
+rozetka\com\util\PropertyLoader.class
+rozetka\com\factory\applogicDrv\ApplicationManager.class
+rozetka\com\factory\applogicDrv\ApplicationManagerDrv.class
+rozetka\com\SampleTest.class
